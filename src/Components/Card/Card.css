@@ -1,0 +1,21 @@
+.card {
+    position: relative;
+    cursor: pointer;
+}
+
+.card img {
+    width: 200px;
+    height: 200px;
+    border-radius: 16px;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    -ms-border-radius: 16px;
+    -o-border-radius: 16px;
+}
+
+.card p {
+    position: absolute;
+    bottom: 1.5rem;
+    left: 0.8rem;
+
+}

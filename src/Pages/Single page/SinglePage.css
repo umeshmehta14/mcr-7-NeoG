@@ -1,0 +1,24 @@
+.single-box {
+    display: flex;
+    gap: 2rem;
+}
+
+.single-box img {
+    width: 400px;
+}
+
+.city-detail {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 600px;
+}
+
+.city-detail strong {
+    color: rgb(68, 68, 255);
+}
+
+.city-detail a {
+    text-decoration: none;
+    color: bisque;
+}
