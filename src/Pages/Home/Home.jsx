@@ -2,7 +2,6 @@ import React from "react";
 import { data } from "../../Data/Data";
 import Card from "../../Components/Card/Card";
 import "./Home.css";
-import { useNavigate } from "react-router-dom";
 
 const Home = () => {
   const { continents } = data;
